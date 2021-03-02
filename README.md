@@ -14,8 +14,6 @@ SaveMc Issue Tracker | System zgłoszeń i propozycji serwera SaveMc.pl
 - Kontakt discord (opcjonalnie)
 
 ## ⚙️ Serwer Info
-
-
 ### Aktywne tryby
 - Survival + Działki 1.12.2
 - Gildie 1.12.2 (pvp 1.8)
