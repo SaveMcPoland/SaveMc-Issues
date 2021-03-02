@@ -3,7 +3,7 @@ SaveMc Issue Tracker | System zgłoszeń i propozycji serwera SaveMc.pl
 
 *Przed opublikowaniem problemu/propozycji upewnij się, czy nie istnieje już takie zgłoszenie.*
 
-### Zgłoszenia powinny odtyczyć
+### Zgłoszenia powinny dotyczyć
 - Propozycji
 - Błędów na serwerze
 
