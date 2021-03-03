@@ -3,11 +3,11 @@ SaveMc Issue Tracker | System zgłoszeń i propozycji serwera SaveMc.pl
 
 *Przed opublikowaniem problemu/propozycji upewnij się, czy nie istnieje już takie zgłoszenie.*
 
-### Zgłoszenia powinny dotyczyć
-- Propozycji
+### Rodzaje przyjmowanych zgłoszeń
+- Propozycje
 - Pytania
 - Prośby i sprawy do administracji
-- Błędów na serwerze
+- Błędy na serwerze
 
 ### Zgłoszenia powinny zawierać
 - Prosty tytuł.
