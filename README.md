@@ -15,7 +15,7 @@ SaveMc Issue Tracker | System zgłoszeń i propozycji serwera SaveMc.pl
 - Wskazany tryb lub tryby, którego tyczy się zgłosznie.
 - Kontakt discord (opcjonalnie)
 
-#### Aby Stworzyć zgłoszenie [kliknij tutaj](https://github.com/Rollczi/SaveMc-Issues/issues/new])
+#### Aby Stworzyć zgłoszenie [kliknij tutaj](https://github.com/SaveMcPoland/SaveMc-Issues/issues/new])
 
 ## Serwer Info
 ### Aktywne tryby
