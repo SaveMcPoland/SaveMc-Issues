@@ -22,6 +22,7 @@ SaveMc Issue Tracker | System zgłoszeń i propozycji serwera SaveMc.pl
 - Survival + Działki 1.16.5
 
 ### Planowane tryby
+- **+** Survival + Działki 1.18.1
 - **+** Gildie 1.12.2 (pvp 1.8)
 - **+** Chest PvP (pvp 1.8)
 
